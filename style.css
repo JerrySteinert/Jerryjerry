@@ -490,12 +490,3 @@ nav {
             max-width: 17.75rem;
             }
             } 
-
-            @media screen and (min-width: 1080px) {
-
-              .card-body {
-                margin-top: 2rem;
-                margin-bottom: 2rem;
-              }
-    
-            }
