@@ -7,7 +7,7 @@
 
 #### Bild der Planung des Projektes
 
-
+![Gerüst der Erstellung](https://imgur.com/a/R1jEpUE "Grundkonzept"
 
 #### Navigation
 
