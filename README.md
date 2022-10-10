@@ -1,11 +1,13 @@
 ## Portfolio
 
 
-**https://jerrysteinert.github.io/sport_club/**
+**Link um Projekt**
 
 ---
 
-![Screenshot from Project](./images/project.png)
+#### Bild der Planung des Projektes
+
+
 
 #### Navigation
 
@@ -50,8 +52,7 @@ lorem ........
 
 ### Contact
 
-Mail: <jerrywow89@web.de><br>
-GitHub: [JerrySteinert](https://github.com/JerrySteinert)<br>
+
 
 ---
 
