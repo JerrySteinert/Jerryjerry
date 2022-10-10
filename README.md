@@ -30,7 +30,7 @@
 
 ### About Project
 
-This is a Projekt at the first 2 Weeks at the start of my Study at the DCI. I try to plan a Sport site that is 
+
 
 ### How to use this Project
 
@@ -67,4 +67,4 @@ lorem ........
 
 ---
 
-Made with ❤️ by me
+Made with ❤️ by Dennis, Christoph and Jerry
